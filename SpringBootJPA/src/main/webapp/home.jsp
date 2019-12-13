@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="addAlien">
-		<input type="text" name="alid"><br>
+		<h3><input type="text" name="alid"></h3><br>
 		<input type="text" name="aname"><br>
 		<input type="submit"><br>
 	</form>
