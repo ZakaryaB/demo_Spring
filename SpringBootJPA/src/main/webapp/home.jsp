@@ -8,6 +8,7 @@
 </head>
 <body>
 	<form action="addAlien">
+		<h1>Hello world</h1>
 		<input type="text" name="alid"><br>
 		<input type="text" name="aname"><br>
 		<input type="submit"><br>
