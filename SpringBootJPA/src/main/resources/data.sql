@@ -1,0 +1,6 @@
+insert into alien values(100,'zzz','java')
+insert into alien values(200,'zzz','linux')
+insert into alien values(300,'eee','python')
+insert into alien values(400,'rrr','android')
+insert into alien values(500,'ttt','java')
+insert into alien values(600,'xxx','java')
